@@ -1,3 +1,13 @@
+/*
+ * Name: Madeline Frederick     NetID: mlf417
+ * Date: 2/12/2022              
+ *
+ * Description: This program takes quiz grades from a file (grades.txt) and prompts the user with a list of choices. The user can
+ * exit the menu, display the average of all the grades, display all grade values listed in the txt file, or add another
+ * quiz grade to the file.
+*/
+
+
 #include <iostream>
 #include <vector>
 #include <string>
