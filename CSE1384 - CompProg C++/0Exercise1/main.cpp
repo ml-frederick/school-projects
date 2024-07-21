@@ -1,3 +1,10 @@
+/*
+ * Name: Madeline Frederick     NetID: mlf417
+ * Date: 1/25/2022              
+ *
+ * Description: This is a practice program that takes two number inputs from the user and adds them together.
+*/
+
 #include <iostream>
 
 using namespace std;
