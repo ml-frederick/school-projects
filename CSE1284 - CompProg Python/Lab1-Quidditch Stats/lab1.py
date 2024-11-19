@@ -2,9 +2,6 @@
 # Name: Madeline Frederick
 # Date: 9/3/21
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 print("        Welcome to the CSE 1284 Quidditch Statistics Calculator")
 print()
 print("Enter the teams, scores, and time to make it work.  It's like magic!")
