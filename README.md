@@ -1,5 +1,5 @@
 # Welcome to 'school-projects'!
-This is a an archive of coding projects I completed while in college.
+This is an archive of coding projects I completed while in college.
 
 ## Guide
 In each project sub-folder:
