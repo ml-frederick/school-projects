@@ -4,9 +4,6 @@
 # Description: In this program, an amount of monetary change is input by the user.
 # The program then outputs how much of each coin will be needed to make exact change.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 num_dollars = 0
 num_quarters = 0
 num_dimes = 0
