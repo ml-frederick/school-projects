@@ -2,9 +2,6 @@
 # Name: Madeline Frederick
 # Date: 9/23/21
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 x_left = int(input("Enter the x coordinate for the lower left corner of the rectangle:\t"))
 y_left = int(input("Enter the y coordinate for the lower left corner of the rectangle:\t"))
 print()
