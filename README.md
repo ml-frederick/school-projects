@@ -8,6 +8,8 @@ In each project sub-folder:
 * All .jpg and .pdf files contain snippets of example program executions and/or other descriptions. 
 
 ## Class Codes & Descriptions
+* CSE 1284 - Introduction to Computer Programming
+  * An introduction to computer programming conducted in Python coding language.
 * CSE 1384 - Intermediate Computer Programming
   * A secondary introduction to computer programming conducted in C++ coding language.
 
