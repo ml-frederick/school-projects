@@ -1,8 +1,8 @@
 # Lab 4 - Password Transformer
 # Name: Madeline Frederick
 # Date: 9/30/21
-# Description: This program transforms an input string by substituting 
-# certain characters, making their password more complex.
+# Description: This program transforms a user's input string (password) by 
+# substituting certain characters, making their password more complex.
 
 word = input()
 password = ''
