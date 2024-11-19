@@ -2,9 +2,6 @@
 # Name: Madeline Frederick
 # Date: 9/17/21
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 print("This program will calculate all of the coordinates")
 print("for the corners of a rectangle.")
 print("But first you will need to enter a little data.")
