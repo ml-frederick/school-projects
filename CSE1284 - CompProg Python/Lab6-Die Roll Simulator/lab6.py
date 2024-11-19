@@ -1,7 +1,7 @@
-# Lab 6 - Die Roll Simulator
+# Lab 6 - Dice Roll Simulator
 # Name: Madeline Frederick
 # Date: 10/22/21
-# Description: The user and computer roll random numbers on 2 die. The score is recorded to see who wins.
+# Description: The user and computer roll random numbers on 2 dice. The score is recorded to see who wins.
 
 import random
 
